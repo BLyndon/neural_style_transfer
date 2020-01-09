@@ -4,4 +4,4 @@
 
 ## Result
 
-![](results/1400.jpg)
+![](results/1400.png)
